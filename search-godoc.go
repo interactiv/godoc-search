@@ -1,10 +1,15 @@
 /**
- * search-godoc is a command line tool that queries
- * godoc.org for packages
+ * godoc-search is a command line tool that queries godoc.org for packages
+ *
+ * author: mparaiso <mparaiso@online.fr>
+ * license: GPL-v3
+ *
  * usage :
- *			search-godoc expression
+ *
+ *			godoc-search expression
  * example:
- *          search-godoc mysql
+ *          godoc-search mysql
+ *
  */
 package main
 
