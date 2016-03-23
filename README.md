@@ -4,7 +4,7 @@ With godoc-search developers no longer need to go to godoc.org to look for go pa
 
 author: mparaiso <mparaiso@online.fr>
 
-license: GPL-v3
+license: gpl-3.0
 
 copyrights: 2014 mparaiso
 

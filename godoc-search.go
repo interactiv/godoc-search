@@ -2,7 +2,7 @@
  * godoc-search is a command line tool that queries godoc.org for packages
  *
  * author: mparaiso <mparaiso@online.fr>
- * license: GPL-v3
+ * license: gpl-3.0
  *
  * usage :
  *
